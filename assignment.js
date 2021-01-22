@@ -1,4 +1,4 @@
-// https://srabonifaria.github.io/assignment-js/.
+// https://github.com/Srabonifaria/assignment-js
 
 function kilometerToMeter(kilometer){
     var meter = kilometer * 1000;
